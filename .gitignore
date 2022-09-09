@@ -7,3 +7,5 @@ lib
 pyvenv.cfg
 .Python
 .DS_Store
+__pycache__/
+
