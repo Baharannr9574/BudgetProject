@@ -1,0 +1,9 @@
+bin
+env
+.env
+.idea
+idea
+lib
+pyvenv.cfg
+.Python
+.DS_Store
