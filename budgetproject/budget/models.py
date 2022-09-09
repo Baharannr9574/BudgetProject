@@ -26,6 +26,8 @@ class Project(models.Model):
         return self.budget - total_expense_amount
 
 
+
+
     @property
     def total_transactions(self):
         expense_list = Expense.objects.filter(project=self)
